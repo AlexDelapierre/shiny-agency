@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import DefaultPicture from '../../assets/profile.jpg'
+import DefaultPicture from '../../assets/profile.png'
 import Card from '../../components/Card'
 
 const freelanceProfiles = [
