@@ -1,4 +1,4 @@
-import DefaultPicture from '../../assets/Photo_de_profil.jpg'
+import DefaultPicture from '../../assets/profile.jpg'
 import Card from '../../components/Card'
 const freelanceProfiles = [
     {
